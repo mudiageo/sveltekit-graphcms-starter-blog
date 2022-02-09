@@ -15,7 +15,6 @@
           title
           slug
           date
-          excerpt
           coverImage {
             fileName
             url
